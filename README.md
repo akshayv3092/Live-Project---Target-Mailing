@@ -12,4 +12,4 @@ Basic Information about the project:-
 
 Outcome:-
 
-The project delivered a model which ranked each address in a market sector against other addresses to select the best responders for target mailing. 
+The project delivered a model in SAS which ranked each address in a market sector against other addresses to select the best responders for target mailing. 
